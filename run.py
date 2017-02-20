@@ -10,8 +10,8 @@ def run():
     
 def seed():
     post = Post(
-        title="title",
-        body="body"
+        title="ksldfj",
+        body="test2-2"
     )
     session.add(post)
     session.commit()
